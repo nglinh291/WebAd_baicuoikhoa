@@ -1,0 +1,21 @@
+.footer {
+    background: black;
+    width: 100%;
+    font-size: 15px;
+}
+
+.footer p {
+    font-family: 'Roboto', sans-serif; 
+    text-align: center; 
+    color: white;
+    padding-left: 600px; 
+    display: inline;
+}  
+
+codeletter {
+    background-color: #2d2d2c;
+    padding: 1.6px 6.4px;
+    border-radius: 7px;
+    color: #b6072d;
+    font-weight: normal;
+  }
